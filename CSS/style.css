@@ -16,7 +16,7 @@
 
 body{
     height: 100vh;
-    background:linear-gradient(rgba(17, 17, 17, 0.192), rgba(20, 20, 20, 1)), url(/img/pexels-academy.jpg);
+    background:linear-gradient(rgba(17, 17, 17, 0.192), rgba(20, 20, 20, 1)), url(/img/);
     background-position: center;
     background-size: cover;
     background-position-y: 0px;
